@@ -1,8 +1,8 @@
 import React from "react";
-import { ReactComponent as IconFacebook } from "./assets/icons/facebook.svg";
-import { ReactComponent as IconTwitter } from "./assets/icons/twitter.svg";
-import { ReactComponent as IconGithub } from "./assets/icons/github.svg";
-import { ReactComponent as IconSite } from "./assets/icons/lumina.svg";
+// import { ReactComponent as IconFacebook } from "./assets/icons/facebook.svg";
+// import { ReactComponent as IconTwitter } from "./assets/icons/twitter.svg";
+// import { ReactComponent as IconGithub } from "./assets/icons/github.svg";
+// import { ReactComponent as IconSite } from "./assets/icons/lumina.svg";
 import "./App.css";
 
 class App extends React.Component {
