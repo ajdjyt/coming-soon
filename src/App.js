@@ -13,7 +13,16 @@ class App extends React.Component {
           <div className="logo">
             <a href="https://www.luminavoice.com" title="LuminaVoice">
               {/* <IconSite className="icon" /> */}
-              <img src="/public/images/lumina.png" />
+              <img
+                src="/coming-soon/images/lumina.png"
+                alt="Lumina Voice"
+                style={{
+                  maxWidth: "100px", // Adjust max width
+                  maxHeight: "100px", // Adjust max height
+                  width: "100%", // Make it responsive
+                  height: "auto", // Maintain aspect ratio
+                }}
+              />
             </a>
             {/* <img src="./assets/lumina.svg" alt='LOGO' /> */}
           </div>
@@ -43,8 +52,8 @@ class App extends React.Component {
         </div>
         <div className="footer">
           <span>
-          LUMINA VOICE PRIVATE LIMITED
-          B/102 TRICITY REALITY, SECTOR 30, Kharghar, Panvel, Raigarh(MH)- 410210, Maharashtra
+            LUMINA VOICE PRIVATE LIMITED B/102 TRICITY REALITY, SECTOR 30 <br/>
+            Kharghar, Panvel<br/> Raigarh(MH)- 410210, Maharashtra
           </span>
         </div>
       </div>
