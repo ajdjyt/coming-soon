@@ -14,7 +14,7 @@ class App extends React.Component {
             <a href="https://www.luminavoice.com" title="LuminaVoice">
               {/* <IconSite className="icon" /> */}
               <img
-                src="/coming-soon/images/lumina.png"
+                src="/images/lumina.png"
                 alt="Lumina Voice"
                 style={{
                   maxWidth: "100px", // Adjust max width
