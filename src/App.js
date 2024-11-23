@@ -42,7 +42,7 @@ class App extends React.Component {
           <div className="title-holder">
             <h1>Lumina Voice</h1>
             <p>
-              Website coming soon. Please check back to know more. Shoot us an
+              Website coming soon. Please check back to know more. Send us an
               email if you're curious.
             </p>
           </div>
